@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Audio Wave Active Ripples (Cyan Glow) -->
+    <path
+        android:pathData="M 24,36 A 21,21 0 0,0 24,72"
+        android:strokeWidth="3.5"
+        android:strokeColor="#5500E5FF"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M 84,36 A 21,21 0 0,1 84,72"
+        android:strokeWidth="3.5"
+        android:strokeColor="#5500E5FF"
+        android:strokeLineCap="round" />
+        
+    <path
+        android:pathData="M 17,29 A 30,30 0 0,0 17,79"
+        android:strokeWidth="1.5"
+        android:strokeColor="#2200E5FF"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M 91,29 A 30,30 0 0,1 91,79"
+        android:strokeWidth="1.5"
+        android:strokeColor="#2200E5FF"
+        android:strokeLineCap="round" />
+
+    <!-- Microphone Core Capsule (Glowing Mint Top) -->
+    <path
+        android:pathData="M 46,34 C 46,30 49,26 54,26 C 59,26 62,30 62,34 L 62,48 C 62,52 59,56 54,56 C 49,56 46,52 46,48 Z"
+        android:fillColor="#00E5FF" />
+        
+    <!-- Premium Carbon Details -->
+    <path
+        android:pathData="M 49,34 H 59 M 49,40 H 59"
+        android:strokeWidth="2"
+        android:strokeColor="#0A0B10" />
+
+    <!-- Acoustic Support Crescent (Electric Purple Accent) -->
+    <path
+        android:pathData="M 37,39 C 37,55 71,55 71,39"
+        android:strokeWidth="4"
+        android:strokeColor="#9D4EDD"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000" />
+        
+    <!-- Stand Neck & Base Plates -->
+    <path
+        android:pathData="M 54,51 L 54,66"
+        android:strokeWidth="4"
+        android:strokeColor="#9D4EDD"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M 44,66 L 64,66"
+        android:strokeWidth="4.5"
+        android:strokeColor="#9D4EDD"
+        android:strokeLineCap="round" />
+</vector>

@@ -1,0 +1,6 @@
+{
+  "name": "AI Voice Assistant",
+  "description": "A futuristic dark-themed AI voice assistant with Speech-to-Text, Text-to-Speech replies, customizable voice options, and automated phone actions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
